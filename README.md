@@ -1,4 +1,7 @@
 # INFORME-TAREA-3
+
+MACIAS HENRY
+CIRCUITOS PRIMER PARCIAL
 1. OBJETIVOS
 
 _Analizar los circuitos en serie y en paralelo, sus cálculos, características y funciones.
@@ -10,6 +13,13 @@ _Aplicar los conocimientos adquiridos de la ley de Ohm en circuitos en paralelo 
 _Trabajar con mediciones de corriente, voltaje y resistencia totales.
 
 2. MARCO TEÓRICO
+
+[![A35.webp](https://i.postimg.cc/QtwRxfZL/A35.webp)](https://postimg.cc/JD3TpchK)
+
+[![A36.png](https://i.postimg.cc/d3Cg7GJh/A36.png)](https://postimg.cc/7JxKdGG4)
+
+[![A37.jpg](https://i.postimg.cc/SQYBtbcm/A37.jpg)](https://postimg.cc/8sDXj3yY)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
