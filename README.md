@@ -16,14 +16,13 @@ _Trabajar con mediciones de corriente, voltaje y resistencia totales.
 =====================EJERCICIOS CAPITULO 4==========================
 
 2)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie
-
-
-
 Para interconectar las puntas de los resistores en serie se debe conectar la punta del resistor 8 con la punta del resistor 7, la punta del resistor 4 con la del 5 y la punta del resistor 2 con la del 6
+
+[![a1.png](https://i.postimg.cc/sgM7QVWk/a1.png)](https://postimg.cc/18Zfb1JB)
 
 4)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie
 
-
+[![a1.png](https://i.postimg.cc/sgM7QVWk/a1.png)](https://postimg.cc/18Zfb1JB)
 
 Los resistores que se encuentran conectados en serie son el 6, 8 y 12.
 
@@ -35,7 +34,7 @@ I=V/R ---------> I=12/120= 0.1mA
 
 8)Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
 
-
+[![a2.png](https://i.postimg.cc/Znfvng5Y/a2.png)](https://postimg.cc/dZyVS5Cg)
 
 Todas las corrientes de resistencia se pueden medir de esta forma
 
@@ -47,7 +46,7 @@ RT=1.0+2.2+.6+12+22= 42.8Ω
 
 12)Calcule la RT en cada circuito de la figura 5-71
 
-
+[![a3.png](https://i.postimg.cc/TYwWFRtK/a3.png)](https://postimg.cc/K46zgySb)
 
 Como todos son en serie aplico RT=R1+R2+R3...+Rn
 
@@ -69,7 +68,7 @@ Las resistencias que usaría serían: 100Ω, 470Ω, 560Ω, 680Ω, 1.0kΩ
 
 18)En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
-
+[![a4.png](https://i.postimg.cc/Y28Wd4zc/a4.png)](https://postimg.cc/K4kjz8WQ)
 
 RT=R1+R2+R3...+Rn
 
@@ -77,7 +76,7 @@ RT= 10-910+820+750+680= 1850Ω
 
 20) Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
-
+[![a5.png](https://i.postimg.cc/gJWZT87p/a5.png)](https://postimg.cc/PLSJLphV)
 
 Aplicando ley de ohm:
 
@@ -107,7 +106,7 @@ R=5/2.22= 2252.25Ω
 
 24)Determine VR1, R2 y R3 en la figura 5-76
 
-
+[![a6.png](https://i.postimg.cc/pd8jCqqk/a6.png)](https://postimg.cc/Jyrt4cwB)
 
 Vr1= 12.3 * 82= 1.0086V
 
@@ -117,7 +116,7 @@ R3=2.21/12.3=179.67Ω
 
 26)Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado
 
-
+[![a7.png](https://i.postimg.cc/tJRVXyym/a7.png)](https://postimg.cc/qhY7LPN8)
 
 RT= 1.0+33+68+27+22=151kΩ
 
@@ -135,7 +134,7 @@ VT= 5.5V+8.2V+12.3V=26V
 
 32)Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestrecómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
-
+[![a8.png](https://i.postimg.cc/CLQfVW2m/a8.png)](https://postimg.cc/D81zrYnX)
 
 a)-15V+2V+V2+3.2V+1V+1.5V+0.5V=0
 
@@ -147,7 +146,7 @@ VS=88V
 
 34)Encuentre R1, R2 y R3 en la figura 5-82
 
-
+[![a9.png](https://i.postimg.cc/HkF5bf4V/a9.png)](https://postimg.cc/4Ybmg20g)
 
 R1= V/I = 5.6/0.01=560Ω
 
@@ -161,7 +160,7 @@ R3= 1.2/0.01=120Ω
 
 36)Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor
 
-
+[![a10.png](https://i.postimg.cc/dVZZQ5Pv/a10.png)](https://postimg.cc/87DztBzn)
 
 A=4.0V
 
@@ -173,7 +172,7 @@ D=7.2V
 
 38)Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84
 
-
+[![a11.png](https://i.postimg.cc/254qh3SK/a11.png)](https://postimg.cc/Lq86M9ft)
 
 A)RT=156Ω
 
@@ -185,7 +184,7 @@ V= (5500/6500)x8V=6.77V
 
 40)Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b)
 
-
+[![a12.png](https://i.postimg.cc/DzVJS1nG/a12.png)](https://postimg.cc/pmZX7h9V)
 
 V=(1470/2150)x12=8.2 minimo
 
@@ -193,7 +192,7 @@ V=(1680/2150)x12=9.38V maximo
 
 42)En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
 
-
+[![a13.png](https://i.postimg.cc/mDBPwRc2/a13.png)](https://postimg.cc/d7NQsbmz)
 
 Ve-fe-f=(5600/108600)* 100=5.16V
 
@@ -241,19 +240,19 @@ Se medirían 12V ya que no existen caídas de voltaje presentes en otros resisto
 
 56)¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
-
+[![a13.png](https://i.postimg.cc/mDBPwRc2/a13.png)](https://postimg.cc/d7NQsbmz)
 
 Mediría R1
 
 58)Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo
 
-
+[![a14.png](https://i.postimg.cc/XJLp1hFK/a14.png)](https://postimg.cc/0M6kbVVr)
 
 Sí indica un problema ya que una abertura puede ser creada por un interruptor o por la falla de un componente. Un corto puede ser crea�do por un interruptor o, accidentalm
 
 60)Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W
 
-
+[![a15.png](https://i.postimg.cc/1Xz4kHck/a15.png)](https://postimg.cc/ZB1T36QH)
 
 a)¿Qué sucedió?
 
@@ -275,7 +274,7 @@ RT=24V
 
 2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
-
+[![a16.png](https://i.postimg.cc/XqDX4Csp/a16.png)](https://postimg.cc/kRK7yB3m)
 
 Sí, ya que un circuito en paralelo tiene más de una trayectoria para la corriente que circula entre dos puntos dados.
 
@@ -291,11 +290,11 @@ I=12/137.5 =0.087A
 
 6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6
 
-
+[![a18.png](https://i.postimg.cc/28VVT05v/a18.png)](https://postimg.cc/hfRDtbTP)
 
 Para este ejercicio se utilizará la formula:
 
-
+[![a19.png](https://i.postimg.cc/RVyqYw3Y/a19.png)](https://postimg.cc/YhNpGGzN)
 
 Para la posición A la resistencia total sería la suma de las 4 resistencias, la resistencia total sería igual a 0.42kΩ
 
@@ -305,7 +304,7 @@ Para la posición C la resistencia total sería la suma de las resistencias R1 y
 
 8)Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
-
+[![a20.png](https://i.postimg.cc/XY5X6XdY/a20.png)](https://postimg.cc/yDV7F1LM)
 
 Para este ejercicio primero se calculan las corrientes por cada resistor. Entonces:
 
@@ -329,7 +328,7 @@ I5=500-50-150-25-100 = 175mA
 
 12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica
 
-
+[![a21.png](https://i.postimg.cc/ZqhnbZxF/a21.png)](https://postimg.cc/DSBn69D8)
 
 14)Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total
 
@@ -341,7 +340,7 @@ Reemplazando los valores la resistencia total es de: R=0.57MΩ
 
 16)Calcule RT en cada uno de los circuitos de la figura 6-70
 
-
+[![a23.png](https://i.postimg.cc/GpJ29NM0/a23.png)](https://postimg.cc/f3yZrHn5)
 
 Para estos calculos se utilizará la formula:
 
@@ -363,7 +362,7 @@ Para el tercer grupo sería: RT=R/n, donde n es el numero de resistores. Entonce
 
 20)Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
 
-
+[![a25.png](https://i.postimg.cc/W3N4ZnKd/a25.png)](https://postimg.cc/5Hr1dwfJ)
 
 1/389.2= 1/680+1/R2 ------------------> 1/R2= 1/389.2-1/680
 
@@ -371,7 +370,7 @@ Despenjando R2 y calculando tengo que: R2=910.09Ω
 
 22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 
-
+[![a26.png](https://i.postimg.cc/MT9pmB2d/a26.png)](https://postimg.cc/LYZSHns1)
 
 Fácilmente puedo calcular RT y aplicando ley de ohm tendría la corriente total ya que uso el valor de resistencia total y el voltaje es el mismo para todo el circuito
 
@@ -391,7 +390,7 @@ Cada uno de los resistores es de 1250 Ω
 
 26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74
 
-
+[![a27.png](https://i.postimg.cc/D0myjz7F/a27.png)](https://postimg.cc/PvsjNTLF)
 
 Is=I1+I2
 
@@ -403,7 +402,7 @@ R1=Vs/I1 = 10/100=0.1kΩ
 
 28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76
 
-
+[![a28.png](https://i.postimg.cc/VL3FN2hL/a28.png)](https://postimg.cc/rKN4nZcv)
 
 a) Is=I1+I2=3mA
 
@@ -423,7 +422,7 @@ Is=Vs/0.5A
 
 30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
 
-
+[![a29.png](https://i.postimg.cc/g0pqV8dC/a29.png)](https://postimg.cc/rDhrcdDj)
 
 Rt=(1x2.7)kΩ/(1+2.7kΩ) =0.73kΩ
 
@@ -437,7 +436,7 @@ Vs=(81/37)V
 
 32)¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 
-
+[![a30.png](https://i.postimg.cc/hjyLRYxn/a30.png)](https://postimg.cc/1nFnpJJ7)
 
 Utilizo la formula de resistenica total en circuitos paralelos, una vez sustituidos los valores y con los valores expresados tengo que:
 
@@ -447,7 +446,7 @@ I1=12/5 I2=12/10 I3=12/15 I4=12/20
 
 34)¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica
 
-
+[![a31.png](https://i.postimg.cc/T3gJ5C8j/a31.png)](https://postimg.cc/tsRxLd47)
 
 I1=V/R1 ------------> V=I1xR1= 1mAx50Ω=0.05
 
@@ -479,63 +478,11 @@ c)La corriente de cada suma d)El voltaje aplicado
 
 44)En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
-[url=https://postimg.cc/18Zfb1JB][img]https://i.postimg.cc/18Zfb1JB/a1.png[/img][/url]
-
-[url=https://postimg.cc/87DztBzn][img]https://i.postimg.cc/87DztBzn/a10.png[/img][/url]
-
-[url=https://postimg.cc/Lq86M9ft][img]https://i.postimg.cc/Lq86M9ft/a11.png[/img][/url]
-
-[url=https://postimg.cc/pmZX7h9V][img]https://i.postimg.cc/pmZX7h9V/a12.png[/img][/url]
-
-[url=https://postimg.cc/d7NQsbmz][img]https://i.postimg.cc/d7NQsbmz/a13.png[/img][/url]
-
-[url=https://postimg.cc/0M6kbVVr][img]https://i.postimg.cc/0M6kbVVr/a14.png[/img][/url]
-
-[url=https://postimg.cc/ZB1T36QH][img]https://i.postimg.cc/ZB1T36QH/a15.png[/img][/url]
-
-[url=https://postimg.cc/kRK7yB3m][img]https://i.postimg.cc/kRK7yB3m/a16.png[/img][/url]
-
-[url=https://postimg.cc/ThD2xHy4][img]https://i.postimg.cc/ThD2xHy4/a17.png[/img][/url]
-
-[url=https://postimg.cc/hfRDtbTP][img]https://i.postimg.cc/hfRDtbTP/a18.png[/img][/url]
-
-[url=https://postimg.cc/YhNpGGzN][img]https://i.postimg.cc/YhNpGGzN/a19.png[/img][/url]
-
-[url=https://postimg.cc/dZyVS5Cg][img]https://i.postimg.cc/dZyVS5Cg/a2.png[/img][/url]
-
-[url=https://postimg.cc/yDV7F1LM][img]https://i.postimg.cc/yDV7F1LM/a20.png[/img][/url]
-
-[url=https://postimg.cc/DSBn69D8][img]https://i.postimg.cc/DSBn69D8/a21.png[/img][/url]
-
-[url=https://postimg.cc/f3yZrHn5][img]https://i.postimg.cc/f3yZrHn5/a23.png[/img][/url]
-
-[url=https://postimages.org/][img]https://i.postimg.cc/5Hr1dwfJ/a25.png[/img][/url]
-
-[url=https://postimg.cc/LYZSHns1][img]https://i.postimg.cc/LYZSHns1/a26.png[/img][/url]
-
-[url=https://postimg.cc/PvsjNTLF][img]https://i.postimg.cc/PvsjNTLF/a27.png[/img][/url]
-
-[url=https://postimg.cc/K46zgySb][img]https://i.postimg.cc/K46zgySb/a3.png[/img][/url]
-
-[url=https://postimg.cc/K4kjz8WQ][img]https://i.postimg.cc/K4kjz8WQ/a4.png[/img][/url]
-
-[url=https://postimg.cc/PLSJLphV][img]https://i.postimg.cc/PLSJLphV/a5.png[/img][/url]
-
-[url=https://postimg.cc/Jyrt4cwB][img]https://i.postimg.cc/Jyrt4cwB/a6.png[/img][/url]
-
-[url=https://postimg.cc/qhY7LPN8][img]https://i.postimg.cc/qhY7LPN8/a7.png[/img][/url]
-
-[url=https://postimg.cc/D81zrYnX][img]https://i.postimg.cc/D81zrYnX/a8.png[/img][/url]
-
-[url=https://postimg.cc/4Ybmg20g][img]https://i.postimg.cc/4Ybmg20g/a9.png[/img][/url]
-
-[url=https://postimages.org/][img]https://i.postimg.cc/8fRV69Mk/download.jpg[/img][/url]
-
-
+[![a32.png](https://i.postimg.cc/HxswKmr3/a32.png)](https://postimg.cc/nsg9j6YQ)
 
 46)¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 
-
+[![a33.png](https://i.postimg.cc/k5yNfGgB/a33.png)](https://postimg.cc/R3Nn0MfB)
 
 4.Video
 
